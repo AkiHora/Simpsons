@@ -1,6 +1,6 @@
 # Simpsons
 
-Здесь мной решается задача [конкурса Kaggle](https://www.kaggle.com/c/journey-springfield) в рамках [курса](https://stepik.org/course/50352/info) по компьютерному зрению. 
+Здесь мной решается задача [конкурса Kaggle](https://www.kaggle.com/c/journey-springfield) в рамках [курса](https://stepik.org/course/50352/info) по компьютерному зрению (2020 г). 
 
 Задача: классификация изображений.<br>
 Классов: 42. 
